@@ -65,13 +65,5 @@ To build a deep learning model that classifies tree species from images with goo
 - **Validation Accuracy**: Up to ~29%
 - Result is promising for 31-class classification on a small dataset.
 
----
 
-## 📸 Sample Output
-
-![Accuracy Plot](path-to-saved-accuracy-plot.png)
-
----
-
-## 🗂️ File Structure
 
